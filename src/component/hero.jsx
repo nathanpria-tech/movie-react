@@ -1,6 +1,6 @@
 import React from "react";
 import { Play, Plus, Clock, Share2 } from "lucide-react";
-import heroImg from "../assets/hero_interstellar.jpg";
+import heroImg from "../assets/ne.jpg";
 
 export default function Hero() {
   return (
